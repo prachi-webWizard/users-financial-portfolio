@@ -1,0 +1,32 @@
+body {
+    background-image: linear-gradient(teal, black);
+}
+
+.action-button {
+    background-color: white;
+    color: black;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s ease;
+    margin: 20px;
+}
+
+.action-button:hover {
+    background-color: #666;
+}
+
+.chart-title {
+    text-align: center;
+    color: white;
+}
+  
+.chart-message {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
