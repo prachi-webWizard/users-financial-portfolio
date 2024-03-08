@@ -1,3 +1,5 @@
+Here's the demo of the running application deployed on Vercel - https://users-financial-portfolio.vercel.app/
+
 # Create a new React application
 
 Open your terminal and run the following command to create a new React application with TypeScript:
@@ -7,6 +9,9 @@ Open your terminal and run the following command to create a new React applicati
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm i` or `npm install` 
+This installs the dependencies needed for our application.
 
 ### `npm start`
 
